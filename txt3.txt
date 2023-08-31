@@ -1,1 +1,4 @@
-third file from vscode to git
+Insert -> Create a file in git folder
+ADD -> git add <filename>
+COMMIT -> git commit -m "<commit message>"
+PUSH -> git push origin main
